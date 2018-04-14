@@ -6,6 +6,9 @@
 - deep learning / machine learning task
 
 ### Daily
+- April 14
+  - benchmark of cvpr2018-wad
+ 
 - April 4
   - Game Next Level
   - Resume add to do list

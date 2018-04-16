@@ -6,6 +6,8 @@
 - deep learning / machine learning task
 
 ### Daily
+- April 16
+  - Make FCN model work: model, loss, subm
 - April 14
   - benchmark of cvpr2018-wad
  
